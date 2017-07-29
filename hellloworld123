@@ -1,0 +1,18 @@
+package javaapplicationl;
+
+
+
+public class Javaapplication1 {
+
+public static void main (Strin[]args){
+
+System.out.println("Merhaba Dunya ");
+
+
+
+
+
+
+}
+
+}
